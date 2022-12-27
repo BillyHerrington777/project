@@ -91,12 +91,6 @@ window.addEventListener("DOMContentLoaded", function(){
 });
 
 
-function answerHide(answer:HTMLElement):void {
-    
-}
-
-
-
 const SLIDER_PAGES_NUMBER = 3;
 function sliderNextPage():void {
     let sliderTrack = document.getElementById("reviews-frame-pages");
